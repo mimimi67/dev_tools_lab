@@ -1,0 +1,7 @@
+ 4096
+input 4096
+input/tmp 4096
+input/tmp/empty.txt 0
+input/docs 4096
+input/docs/notes one.txt 11
+input/docs/.secret.txt 7
