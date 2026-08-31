@@ -7,7 +7,7 @@ fi
 FILE="$1"
 if [ ! -f "$FILE" ];then
     echo "错误：文件 $FILE 不存在" >&2
-    exit 2
+    exit 1
 fi
 
 echo "====5xx最多前2个path===="
